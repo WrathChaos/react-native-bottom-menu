@@ -6,7 +6,7 @@ const App = () => {
   return (
     <Fragment>
       <StatusBar barStyle="dark-content" />
-      <View style={{ flex: 1, backgroundColor: "#ccc" }}>
+      <View style={{ flex: 1, backgroundColor: "#fbfbfb" }}>
         <BottomMenu />
       </View>
     </Fragment>
