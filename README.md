@@ -1,17 +1,16 @@
-<img alt="React Native Dynamic Search Bar" src="https://github.com/WrathChaos/react-native-dynamic-search-bar/blob/master/assets/logo.png" width="1050"/>
+<img alt="React Native Bottom Menu" src="https://github.com/WrathChaos/react-native-bottom-menu/blob/master/assets/logo.png" width="1050"/>
 
-Fully customizable Dynamic Search Bar for React Native.
+Fully customizable Bottom Menu for React Native.
 
-[![npm version](https://img.shields.io/npm/v/react-native-dynamic-search-bar.svg)](https://www.npmjs.com/package/react-native-dynamic-search-bar)
-[![npm](https://img.shields.io/npm/dt/react-native-dynamic-search-bar.svg)](https://www.npmjs.com/package/react-native-dynamic-search-bar)
-![expo-compatible](https://img.shields.io/badge/Expo-compatible-9cf.svg)
+[![npm version](https://img.shields.io/npm/v/react-native-bottom-menu.svg)](https://www.npmjs.com/package/react-native-bottom-menu)
+[![npm](https://img.shields.io/npm/dt/react-native-bottom-menu.svg)](https://www.npmjs.com/package/react-native-bottom-menu)
 ![Platform - Android and iOS](https://img.shields.io/badge/platform-Android%20%7C%20iOS-blue.svg)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![styled with prettier](https://img.shields.io/badge/styled_with-prettier-ff69b4.svg)](https://github.com/prettier/prettier)
 
 <p align="center">
-<img alt="React Native Dynamic Search Bar" src="https://github.com/WrathChaos/react-native-dynamic-search-bar/blob/master/assets/Screenshots/example.png" width="40%" height="735"/>
-<img alt="React Native Dynamic Search Bar" src="https://github.com/WrathChaos/react-native-dynamic-search-bar/blob/master/assets/Screenshots/SearchGIF.gif" width="49.7%"/>
+<img alt="React Native Bottom Menu" src="https://github.com/WrathChaos/react-native-bottom-menu/blob/master/assets/Screenshots/example.png" width="40%" height="735"/>
+<img alt="React Native Bottom Menu" src="https://github.com/WrathChaos/react-native-bottom-menu/blob/master/assets/Screenshots/ReactNativeBottomMenu.gif" width="49.7%"/>
 </p>
 
 ## Installation
@@ -21,7 +20,7 @@ Add the dependency:
 ### React Native:
 
 ```ruby
-npm i react-native-dynamic-search-bar
+npm i react-native-bottom-menu
 ```
 
 ## Peer Dependencies
@@ -116,7 +115,7 @@ You can check the example for the advanced usage
 
 ## Expo Compatibility
 
-Dynamic Search Bar is usable with Expo. You just need to add a peer dependency:
+Bottom Menu is usable with Expo. You just need to add a peer dependency:
 
 ```
 "react-native-dynamic-vector-icons": "WrathChaos/react-native-dynamic-vector-icons#expo"
@@ -161,4 +160,4 @@ FreakyCoder, kurayogun@gmail.com
 
 ## License
 
-React Native Dynamic Search Bar Library is available under the MIT license. See the LICENSE file for more info.
+React Native Bottom Menu Library is available under the MIT license. See the LICENSE file for more info.
