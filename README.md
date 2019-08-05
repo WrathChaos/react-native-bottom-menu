@@ -30,11 +30,9 @@ npm i react-native-bottom-menu
 ```
 "react": ">= 16.x.x",
 "react-native": ">= 0.55.x",
-"react-native-vector-icons": ">= 6,x,x",
-"react-native-dynamic-vector-icons": ">= x,x,x"
-
-// Expo Version
-"react-native-dynamic-vector-icons": "WrathChaos/react-native-dynamic-vector-icons#expo"
+"react-native-androw": ">= 0.0.31",
+"react-native-vector-icons": ">= 6.x.x",
+"react-native-dynamic-vector-icons": ">= x.x.x"
 ```
 
 ## Basic Usage
