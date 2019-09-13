@@ -1,13 +1,8 @@
 <img alt="React Native Bottom Menu" src="https://github.com/WrathChaos/react-native-bottom-menu/blob/master/assets/logo.png" width="1050"/>
 
-
 [![Battle Tested ✅](https://img.shields.io/badge/-Battle--Tested%20%E2%9C%85-03666e?style=for-the-badge)](https://github.com/WrathChaos/react-native-bottom-menu)
 
-
 [![Fully customizable Bottom Menu for React Native](https://img.shields.io/badge/-Fully%20customizable%20Bottom%20Menu%20for%20React%20Native-lightgrey?style=for-the-badge)](https://github.com/WrathChaos/react-native-bottom-menu)
-
-
-
 
 [![npm version](https://img.shields.io/npm/v/react-native-bottom-menu.svg?style=for-the-badge)](https://www.npmjs.com/package/react-native-bottom-menu)
 [![npm](https://img.shields.io/npm/dt/react-native-bottom-menu.svg?style=for-the-badge)](https://www.npmjs.com/package/react-native-bottom-menu)
@@ -45,6 +40,9 @@ npm i react-native-bottom-menu
 ## Basic Usage
 
 ### You can use any other component rather than Item component. It's all customizable. 
+```js
+import BottomMenu, { Item } from "react-native-bottom-menu";
+```
 
 ```js
 <BottomMenu>
