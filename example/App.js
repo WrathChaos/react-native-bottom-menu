@@ -1,8 +1,6 @@
 import React, { Component } from "react";
 import { Text, StatusBar, SafeAreaView, ImageBackground } from "react-native";
-// import { BottomMenu, Item } from "react-native-bottom-menu";
-import BottomMenu from "./lib/src/components/bottomMenu/BottomMenu";
-import Item from "./lib/src/components/item/Item";
+import { BottomMenu, Item } from "react-native-bottom-menu";
 import Androw from "react-native-androw";
 import styles from "./styles/App.style";
 
