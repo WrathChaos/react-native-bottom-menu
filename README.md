@@ -41,7 +41,7 @@ npm i react-native-bottom-menu
 
 ### You can use any other component rather than Item component. It's all customizable. 
 ```js
-import BottomMenu, { Item } from "react-native-bottom-menu";
+import { BottomMenu, Item } from "react-native-bottom-menu";
 ```
 
 ```js
