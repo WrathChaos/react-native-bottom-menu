@@ -1,6 +1,8 @@
-import React, { Component, Fragment } from "react";
-import { Text, StatusBar, ImageBackground } from "react-native";
-import { BottomMenu, Item } from "react-native-bottom-menu";
+import React, { Component } from "react";
+import { Text, StatusBar, SafeAreaView, ImageBackground } from "react-native";
+// import { BottomMenu, Item } from "react-native-bottom-menu";
+import BottomMenu from "./lib/src/components/bottomMenu/BottomMenu";
+import Item from "./lib/src/components/item/Item";
 import Androw from "react-native-androw";
 import styles from "./styles/App.style";
 
@@ -14,12 +16,12 @@ class App extends Component {
 
   render() {
     return (
-      <Fragment>
-        <StatusBar barStyle="dark-content" />
-        <ImageBackground
-          style={styles.backgroundStyle}
-          source={require("./assets/Watusi.png")}
-        >
+      <ImageBackground
+        style={styles.backgroundStyle}
+        source={require("./assets/Watusi.png")}
+      >
+        <SafeAreaView style={{ flex: 1 }}>
+          <StatusBar barStyle="dark-content" />
           <Androw style={styles.headerStyle}>
             <Text style={styles.textStyle}>React Native Bottom Menu</Text>
           </Androw>
@@ -57,8 +59,8 @@ class App extends Component {
               onPress={() => this.setState({ isActive: "settings" })}
             />
           </BottomMenu>
-        </ImageBackground>
-      </Fragment>
+        </SafeAreaView>
+      </ImageBackground>
     );
   }
 }
