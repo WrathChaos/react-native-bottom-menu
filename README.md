@@ -148,6 +148,8 @@ export default BottomMenuWrapper;
 
 #### Usage
 ```js
+import BottomMenu from "shared-components/BottomMenuWrapper";
+
 <BottomMenu />
 ```
 
