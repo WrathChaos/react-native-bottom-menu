@@ -5,7 +5,6 @@
 	};
 	objectVersion = 46;
 	objects = {
-
 /* Begin PBXBuildFile section */
 		00E356F31AD99517003FC87E /* exampleTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 00E356F21AD99517003FC87E /* exampleTests.m */; };
 		056E956F0FC54F1EB19EC4C4 /* EvilIcons.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 212207979A234D42B5B54A2D /* EvilIcons.ttf */; };
