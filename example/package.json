@@ -12,7 +12,7 @@
     "react": "16.8.6",
     "react-native": "0.60.4",
     "react-native-androw": "0.0.31",
-    "react-native-bottom-menu": "^0.1.6",
+    "react-native-bottom-menu": "^0.1.7",
     "react-native-dynamic-vector-icons": "0.0.4",
     "react-native-material-ripple": "^0.8.0",
     "react-native-vector-icons": "^6.6.0"
