@@ -23,6 +23,7 @@ class App extends Component {
           <Androw style={styles.headerStyle}>
             <Text style={styles.textStyle}>React Native Bottom Menu</Text>
           </Androw>
+          <View>{this.checkIfImage() ? <Image /> : <Video />}</View>
           <BottomMenu>
             <Item
               size={22}
