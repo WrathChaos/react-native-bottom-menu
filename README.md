@@ -11,8 +11,8 @@
 [![styled with prettier](https://img.shields.io/badge/styled_with-prettier-ff69b4.svg?style=for-the-badge)](https://github.com/prettier/prettier)
 
 <p align="center">
-<img alt="React Native Bottom Menu" src="https://github.com/WrathChaos/react-native-bottom-menu/blob/master/assets/Screenshots/example1.png" width="49.7%" height="685"/>
-<img alt="React Native Bottom Menu" src="https://github.com/WrathChaos/react-native-bottom-menu/blob/master/assets/Screenshots/ReactNativeBottomMenu.gif" width="49.7%"/>
+<img alt="React Native Bottom Menu" src="https://github.com/WrathChaos/react-native-bottom-menu/blob/master/assets/Screenshots/example1.png"  height="685"/>
+<img alt="React Native Bottom Menu" src="https://github.com/WrathChaos/react-native-bottom-menu/blob/master/assets/Screenshots/ReactNativeBottomMenu.gif" height="685" />
 </p>
 
 ## Installation
